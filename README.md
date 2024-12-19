@@ -1,5 +1,5 @@
-# Introduction to Natural Language Processing
-This repository contains Jupyter Notebook files summarizing the content of the book "Introduction to natural language processing using deep learning".
+# Natural Language Processing
+This repository contains Jupyter Notebook files summarizing the content of the book "딥 러닝을 이용한 자연어 처리 입문".
 
 ## Contents
 ### 1. Preparing for Natural Language Processing
