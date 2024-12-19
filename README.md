@@ -2,7 +2,7 @@
 This repository contains Jupyter Notebook files summarizing the content of the book "Introduction to natural language processing using deep learning".
 
 ## Contents
-### 1. Preparing for Natural Language Processing (NLP)
+### 1. Preparing for Natural Language Processing
   1. Numpy
   2. Pandas-Profiling
   3. Machine Learning Workflow
